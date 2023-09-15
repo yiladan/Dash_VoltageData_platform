@@ -1,0 +1,26 @@
+html,body{
+    background-color: #192444;
+    margin: 3%;
+    color: white;
+    text-align: center;
+}
+
+.div_container{
+    text-align: center;
+    margin:  20px;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+.card_container{
+    border-radius: 5px;
+    background-color: #182757;
+    margin: 16px;
+    padding: 20px;
+    position: relative;
+    box-shadow: 2px 2px 2px #1e294e;
+}   
+
+.hidden-graph {
+    visibility: hidden;
+    }
